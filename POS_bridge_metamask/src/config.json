@@ -1,0 +1,10 @@
+{
+  "posRootERC20": "0xa91d3d86b621900dd4fe2192992bcd30ccc2b640",
+  "posChildERC20": "0x4041753ebb240af0809e35b5eb05e1ddaae4e220",
+  "MATIC_RPC": "https://rpc-mumbai.maticvigil.com/v1/82f5eaa78142abb17715fdb16a3cbfb0fd1da890",
+  "ETHEREUM_RPC": "https://goerli.infura.io/v3/48bb610378a34e74a242999e8a6429f7",
+  "VERSION": "mumbai",
+  "NETWORK": "testnet",
+  "MATIC_CHAINID": 80001,
+  "ETHEREUM_CHAINID": 5
+}

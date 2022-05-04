@@ -1,0 +1,16 @@
+{
+  "name": "polygon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@maticnetwork/maticjs": "^3.2.6",
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "web3": "^1.7.3"
+  }
+}
